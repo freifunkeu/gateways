@@ -1,0 +1,3 @@
+key "c7a08920295bf7e70788a0c44ea7babc39499985c4dc554223b1f7cb4affc424";
+remote ipv4 "gw07.ffeu.de" port 53879;
+float yes;

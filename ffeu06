@@ -1,0 +1,3 @@
+key "979394ccc9f281310190559368a5ec37027f7e94ad04334fe98b4e3e6a4fdb3e";
+remote ipv4 "gw06.ffeu.de" port 53879;
+float yes;
